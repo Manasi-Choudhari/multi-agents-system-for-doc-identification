@@ -1,0 +1,11 @@
+From: alice@example.com
+Subject: Request for Quote on office supplies
+
+Dear sales team,
+
+We would like to request a quote (RFQ) for the attached office supplies. Kindly provide pricing and availability.
+
+This is an urgent request.
+
+Best regards,
+Alice
